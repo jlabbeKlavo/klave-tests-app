@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "test-klave-sdk",
+            "slug": "test-klave-sdk",
+            "version": "0.0.1",
+            "rootDir": "apps/test-klave-sdk"
+        }
+    ]
+}
