@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "asbuild": "stac ."
+        "build": "stac ."
     },
     "devDependencies": {
         "@klave/sdk": "0.13.0",
